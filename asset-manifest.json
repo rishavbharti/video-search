@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/video-search/static/css/main.46f49bac.chunk.css",
+    "main.js": "/video-search/static/js/main.4bb7c4a3.chunk.js",
+    "main.js.map": "/video-search/static/js/main.4bb7c4a3.chunk.js.map",
+    "runtime-main.js": "/video-search/static/js/runtime-main.f4fb0d58.js",
+    "runtime-main.js.map": "/video-search/static/js/runtime-main.f4fb0d58.js.map",
+    "static/js/2.81b4db64.chunk.js": "/video-search/static/js/2.81b4db64.chunk.js",
+    "static/js/2.81b4db64.chunk.js.map": "/video-search/static/js/2.81b4db64.chunk.js.map",
+    "index.html": "/video-search/index.html",
+    "precache-manifest.15ce8c939115d4e72800986f222bf8b0.js": "/video-search/precache-manifest.15ce8c939115d4e72800986f222bf8b0.js",
+    "service-worker.js": "/video-search/service-worker.js",
+    "static/css/main.46f49bac.chunk.css.map": "/video-search/static/css/main.46f49bac.chunk.css.map",
+    "static/js/2.81b4db64.chunk.js.LICENSE.txt": "/video-search/static/js/2.81b4db64.chunk.js.LICENSE.txt",
+    "static/media/YTLogo.png": "/video-search/static/media/YTLogo.07b8560a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4fb0d58.js",
+    "static/js/2.81b4db64.chunk.js",
+    "static/css/main.46f49bac.chunk.css",
+    "static/js/main.4bb7c4a3.chunk.js"
+  ]
+}
