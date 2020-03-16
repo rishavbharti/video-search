@@ -1,3 +1,6 @@
+Tried to recreate some components of YouTube using the YouTube API.
+Link to the website https://rishavbharti.github.io/video-search/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
